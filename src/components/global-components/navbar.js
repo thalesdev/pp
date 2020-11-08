@@ -4,9 +4,6 @@ import { Link } from 'react-router-dom';
 class Navbar extends Component {
 
 	render() {
-		let publicUrl = process.env.PUBLIC_URL + '/'
-		let imgattr = 'logo'
-		let anchor = '#'
 		return (
 			<div>
 				<div className="navbar-area">
@@ -38,7 +35,7 @@ class Navbar extends Component {
 									<li><Link to="/contact">Contato</Link></li>
 								</ul>
 							</div>
-						
+
 						</div>
 					</nav>
 				</div>
