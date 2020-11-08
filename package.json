@@ -1,0 +1,53 @@
+{
+	"name": "realdeal",
+	"version": "0.1.0",
+	"homepage": "/",
+	"private": true,
+	"dependencies": {
+		"@testing-library/jest-dom": "^4.2.4",
+		"@testing-library/react": "^9.4.0",
+		"@testing-library/user-event": "^7.2.1",
+		"axios": "^0.21.0",
+		"google-maps-react": "^2.0.2",
+		"html-react-parser": "^0.10.1",
+		"owl.carousel": "^2.3.4",
+		"react": "^16.12.0",
+		"react-dom": "^16.12.0",
+		"react-fitted-img": "^1.6.0",
+		"react-hubspot": "^1.0.4",
+		"react-loading-skeleton": "^2.1.1",
+		"react-messenger-customer-chat": "^0.8.0",
+		"react-number-format": "^4.4.1",
+		"react-router-dom": "^5.1.2",
+		"react-scripts": "3.4.0",
+		"react-time-ago": "^6.2.0",
+		"react-toast-notifications": "^2.4.0",
+		"styled-components": "^5.2.0",
+		"swr": "^0.3.6",
+		"wowjs": "^1.1.3"
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject"
+	},
+	"eslintConfig": {
+		"extends": "react-app"
+	},
+	"browserslist": {
+		"production": [
+			">0.2%",
+			"not dead",
+			"not op_mini all"
+		],
+		"development": [
+			"last 1 chrome version",
+			"last 1 firefox version",
+			"last 1 safari version"
+		]
+	},
+	"devDependencies": {
+		"json-server": "^0.16.2"
+	}
+}

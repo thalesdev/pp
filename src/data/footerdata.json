@@ -1,0 +1,77 @@
+{
+  "footerlogo": "/assets/img/footer-logo.png",
+  "footertext": "",
+  "footerbg": "/assets/img/bg/footer.png",
+  "socialicon": [
+      {
+        "icon": "fa fa-facebook",
+        "url": "https://www.facebook.com/primepropertiesbr/"
+      },
+      {
+        "icon": "fa fa-twitter",
+        "url": "https://twitter.com/PrimeProbr"
+      },
+      {
+        "icon": "fa fa-linkedin",
+        "url": "https://www.linkedin.com/company/primepropertiesbr/"
+      }
+    ],
+  "copyrighttext": "  © Copyright 2020 Prime Properties CRECI: 035.565-J. Todos os direitos reservados.",
+  "popularserces": {
+    "title": "Mais Buscados",
+    "links": [
+      {
+        "title": "Propriedade à venda",
+        "url": "/property-details"
+      },
+      {
+        "title": "Apartamentos à venda",
+        "url": "/property-details"
+      },
+      {
+        "title": "Escritórios à venda",
+        "url": "/property-details"
+      },
+      {
+        "title": "Casas à venda",
+        "url": "/property-details"
+      }
+    ]
+  },
+  "Homepress": {
+    "title": "Homepress Markets",
+    "links": [
+      {
+        "title": "Los Angeles Offices",
+         "url": "/property-details"
+      },
+      {
+        "title": "Las Vegas Apartment",
+         "url": "/property-details"
+      },
+      {
+        "title": "Sacramento Townhome",
+         "url": "/property-details"
+      },
+      {
+        "title": "San Francisco Offices",
+         "url": "/property-details"
+      }
+    ]
+  },
+  "quicklink": {
+    "title": "Links Rápidos",
+    "links": [      
+      {
+        "title": "Sobre a Prime",
+        "url": "/About"
+      },
+      {
+        "title": "Contato",
+        "url": "/contact"
+      }
+    ]
+  }
+
+
+}

@@ -1,0 +1,2406 @@
+{
+	"propriedades-destaques": [
+		{
+			"id": 1,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": "$830/mo",
+			"newprice": 484294,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 956140,
+			"features": {
+				"baths": 2,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 2,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 319944,
+			"newprice": 595542,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 135642,
+			"features": {
+				"baths": 6,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 3,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 772919,
+			"newprice": 324269,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 299356,
+			"features": {
+				"baths": 2,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 4,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 191729,
+			"newprice": 226996,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 756995,
+			"features": {
+				"baths": 1,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 5,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 83279,
+			"newprice": 631789,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 642414,
+			"features": {
+				"baths": 2,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 6,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 445049,
+			"newprice": 624410,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 882780,
+			"features": {
+				"baths": 1,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 7,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 758032,
+			"newprice": 575736,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 370921,
+			"features": {
+				"baths": 3,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 8,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 545018,
+			"newprice": 954640,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 425853,
+			"features": {
+				"baths": 1,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 9,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 823697,
+			"newprice": 954272,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 625010,
+			"features": {
+				"baths": 1,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 10,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 978358,
+			"newprice": 428881,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 474100,
+			"features": {
+				"baths": 4,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 11,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 414039,
+			"newprice": 625193,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 874011,
+			"features": {
+				"baths": 9,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 12,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 593127,
+			"newprice": 856874,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 942322,
+			"features": {
+				"baths": 0,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 13,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 28170,
+			"newprice": 944374,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 752919,
+			"features": {
+				"baths": 9,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 14,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 240269,
+			"newprice": 655291,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 838891,
+			"features": {
+				"baths": 9,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 15,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 502327,
+			"newprice": 604192,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 125843,
+			"features": {
+				"baths": 9,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 16,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 17499,
+			"newprice": 621948,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 629,
+			"features": {
+				"baths": 0,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 17,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 634372,
+			"newprice": 118052,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 9962,
+			"features": {
+				"baths": 8,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 18,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 419304,
+			"newprice": 867754,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 649190,
+			"features": {
+				"baths": 3,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 19,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 865461,
+			"newprice": 589140,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 833872,
+			"features": {
+				"baths": 8,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 20,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 808299,
+			"newprice": 262589,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 48995,
+			"features": {
+				"baths": 7,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 21,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 290219,
+			"newprice": 199070,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 143473,
+			"features": {
+				"baths": 3,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 22,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 940803,
+			"newprice": 58818,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 244885,
+			"features": {
+				"baths": 5,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 23,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 685945,
+			"newprice": 311293,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 49097,
+			"features": {
+				"baths": 3,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 24,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 697215,
+			"newprice": 768655,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 650907,
+			"features": {
+				"baths": 1,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 25,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 750591,
+			"newprice": 428863,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 746713,
+			"features": {
+				"baths": 4,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 26,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 402085,
+			"newprice": 481116,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 523069,
+			"features": {
+				"baths": 1,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 27,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 75682,
+			"newprice": 614820,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 520827,
+			"features": {
+				"baths": 7,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 28,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 302021,
+			"newprice": 439281,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 529506,
+			"features": {
+				"baths": 6,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 29,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 702588,
+			"newprice": 279634,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 435054,
+			"features": {
+				"baths": 0,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 30,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 310706,
+			"newprice": 140576,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 141811,
+			"features": {
+				"baths": 3,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 31,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 403546,
+			"newprice": 546502,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 846617,
+			"features": {
+				"baths": 7,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 32,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 203210,
+			"newprice": 406070,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 77809,
+			"features": {
+				"baths": 5,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 33,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 5034,
+			"newprice": 461257,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 207624,
+			"features": {
+				"baths": 9,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 34,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 225027,
+			"newprice": 890169,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 444440,
+			"features": {
+				"baths": 5,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 35,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 478013,
+			"newprice": 493266,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 850204,
+			"features": {
+				"baths": 6,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 36,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 709006,
+			"newprice": 174911,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 834012,
+			"features": {
+				"baths": 1,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 37,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 660404,
+			"newprice": 383300,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 9330,
+			"features": {
+				"baths": 7,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 38,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 180162,
+			"newprice": 145303,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 658983,
+			"features": {
+				"baths": 0,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 39,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 329074,
+			"newprice": 523682,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 340319,
+			"features": {
+				"baths": 1,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 40,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 714398,
+			"newprice": 28449,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 896809,
+			"features": {
+				"baths": 6,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 41,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 517562,
+			"newprice": 115105,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 662825,
+			"features": {
+				"baths": 3,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 42,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 3157,
+			"newprice": 415458,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 927639,
+			"features": {
+				"baths": 7,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 43,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 52702,
+			"newprice": 41240,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 122788,
+			"features": {
+				"baths": 5,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 44,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 378356,
+			"newprice": 84464,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 218654,
+			"features": {
+				"baths": 8,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 45,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 350243,
+			"newprice": 388197,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 138989,
+			"features": {
+				"baths": 7,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 46,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 442288,
+			"newprice": 930409,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 402048,
+			"features": {
+				"baths": 8,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 47,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 136167,
+			"newprice": 688812,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 142609,
+			"features": {
+				"baths": 1,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 48,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 972444,
+			"newprice": 549238,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 840413,
+			"features": {
+				"baths": 7,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 49,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 798941,
+			"newprice": 289431,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 579507,
+			"features": {
+				"baths": 4,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 50,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 655105,
+			"newprice": 647106,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 821464,
+			"features": {
+				"baths": 5,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 51,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 357785,
+			"newprice": 531275,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 338745,
+			"features": {
+				"baths": 0,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 52,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 984462,
+			"newprice": 404278,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 345891,
+			"features": {
+				"baths": 6,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 53,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 95901,
+			"newprice": 448887,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 853365,
+			"features": {
+				"baths": 9,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 54,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 942834,
+			"newprice": 221498,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 754510,
+			"features": {
+				"baths": 3,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 55,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 977952,
+			"newprice": 295851,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 180435,
+			"features": {
+				"baths": 4,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 56,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 46318,
+			"newprice": 162375,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 890237,
+			"features": {
+				"baths": 8,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 57,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 829504,
+			"newprice": 122768,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 150983,
+			"features": {
+				"baths": 9,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 58,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 344848,
+			"newprice": 347418,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 987270,
+			"features": {
+				"baths": 3,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 59,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 535475,
+			"newprice": 223317,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 644492,
+			"features": {
+				"baths": 7,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 60,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 188950,
+			"newprice": 478046,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 724689,
+			"features": {
+				"baths": 5,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 61,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 468994,
+			"newprice": 738049,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 931046,
+			"features": {
+				"baths": 7,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 62,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 748066,
+			"newprice": 737667,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 990003,
+			"features": {
+				"baths": 2,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 63,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 716220,
+			"newprice": 659358,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 40917,
+			"features": {
+				"baths": 9,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 64,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 973045,
+			"newprice": 527027,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 296499,
+			"features": {
+				"baths": 8,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 65,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 930023,
+			"newprice": 36201,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 928995,
+			"features": {
+				"baths": 6,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 66,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 452612,
+			"newprice": 81359,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 489,
+			"features": {
+				"baths": 0,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 67,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 479481,
+			"newprice": 790576,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 62803,
+			"features": {
+				"baths": 5,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 68,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 819077,
+			"newprice": 389588,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 986324,
+			"features": {
+				"baths": 6,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 69,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 619561,
+			"newprice": 634820,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 823031,
+			"features": {
+				"baths": 4,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 70,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 645417,
+			"newprice": 505673,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 289340,
+			"features": {
+				"baths": 6,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 71,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 717356,
+			"newprice": 743935,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 725293,
+			"features": {
+				"baths": 6,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 72,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 484184,
+			"newprice": 98794,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 551695,
+			"features": {
+				"baths": 2,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 73,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 548731,
+			"newprice": 797483,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 654107,
+			"features": {
+				"baths": 3,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 74,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 307164,
+			"newprice": 339390,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 195869,
+			"features": {
+				"baths": 0,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 75,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 346794,
+			"newprice": 367783,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 376289,
+			"features": {
+				"baths": 3,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 76,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 880558,
+			"newprice": 554284,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 180236,
+			"features": {
+				"baths": 7,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 77,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 468888,
+			"newprice": 450762,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 958668,
+			"features": {
+				"baths": 9,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 78,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 664077,
+			"newprice": 183561,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 43062,
+			"features": {
+				"baths": 2,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 79,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 139100,
+			"newprice": 714074,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 470403,
+			"features": {
+				"baths": 4,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 80,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 816902,
+			"newprice": 23231,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 762549,
+			"features": {
+				"baths": 3,
+				"rooms": 9
+			}
+		},
+		{
+			"id": 81,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 29891,
+			"newprice": 915992,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 147435,
+			"features": {
+				"baths": 5,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 82,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 791960,
+			"newprice": 861495,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 500374,
+			"features": {
+				"baths": 9,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 83,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 586468,
+			"newprice": 68469,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 423027,
+			"features": {
+				"baths": 9,
+				"rooms": 4
+			}
+		},
+		{
+			"id": 84,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 82637,
+			"newprice": 430008,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 20125,
+			"features": {
+				"baths": 1,
+				"rooms": 3
+			}
+		},
+		{
+			"id": 85,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 493910,
+			"newprice": 980663,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 430453,
+			"features": {
+				"baths": 1,
+				"rooms": 0
+			}
+		},
+		{
+			"id": 86,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 647073,
+			"newprice": 284398,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 327844,
+			"features": {
+				"baths": 2,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 87,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 56803,
+			"newprice": 455989,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 213130,
+			"features": {
+				"baths": 3,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 88,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 697233,
+			"newprice": 725561,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 178422,
+			"features": {
+				"baths": 2,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 89,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 297442,
+			"newprice": 608700,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 179873,
+			"features": {
+				"baths": 1,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 90,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 564936,
+			"newprice": 291997,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 45782,
+			"features": {
+				"baths": 9,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 91,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 313360,
+			"newprice": 654394,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 598404,
+			"features": {
+				"baths": 3,
+				"rooms": 1
+			}
+		},
+		{
+			"id": 92,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 159394,
+			"newprice": 531201,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 426974,
+			"features": {
+				"baths": 6,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 93,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 581130,
+			"newprice": 133356,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 931593,
+			"features": {
+				"baths": 3,
+				"rooms": 6
+			}
+		},
+		{
+			"id": 94,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 899451,
+			"newprice": 300127,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 187035,
+			"features": {
+				"baths": 3,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 95,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 452375,
+			"newprice": 502244,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 640097,
+			"features": {
+				"baths": 9,
+				"rooms": 2
+			}
+		},
+		{
+			"id": 96,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 498438,
+			"newprice": 126116,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 737484,
+			"features": {
+				"baths": 4,
+				"rooms": 7
+			}
+		},
+		{
+			"id": 97,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 167344,
+			"newprice": 917034,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 331754,
+			"features": {
+				"baths": 7,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 98,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 385427,
+			"newprice": 962706,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 366300,
+			"features": {
+				"baths": 5,
+				"rooms": 8
+			}
+		},
+		{
+			"id": 99,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 373018,
+			"newprice": 98382,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 462689,
+			"features": {
+				"baths": 3,
+				"rooms": 5
+			}
+		},
+		{
+			"id": 100,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 613252,
+			"newprice": 443978,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 660411,
+			"features": {
+				"baths": 4,
+				"rooms": 0
+			}
+		}
+	],
+	"projetos-destaques": [
+		{
+			"id": 1,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 662215,
+			"newprice": 289975,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 914782,
+			"baths": 9,
+			"rooms": 5
+		},
+		{
+			"id": 2,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 542493,
+			"newprice": 827251,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 354700,
+			"baths": 2,
+			"rooms": 6
+		},
+		{
+			"id": 3,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 335084,
+			"newprice": 423458,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 343917,
+			"baths": 7,
+			"rooms": 9
+		},
+		{
+			"id": 4,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 467208,
+			"newprice": 166494,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 437706,
+			"baths": 3,
+			"rooms": 2
+		},
+		{
+			"id": 5,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 871650,
+			"newprice": 990228,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 84996,
+			"baths": 4,
+			"rooms": 8
+		},
+		{
+			"id": 6,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 590214,
+			"newprice": 808217,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 175386,
+			"baths": 1,
+			"rooms": 2
+		},
+		{
+			"id": 7,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 234721,
+			"newprice": 522029,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 549003,
+			"baths": 1,
+			"rooms": 6
+		},
+		{
+			"id": 8,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 475021,
+			"newprice": 621787,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 438141,
+			"baths": 0,
+			"rooms": 5
+		},
+		{
+			"id": 9,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 29289,
+			"newprice": 362381,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 112570,
+			"baths": 4,
+			"rooms": 2
+		},
+		{
+			"id": 10,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 940926,
+			"newprice": 751534,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 419415,
+			"baths": 9,
+			"rooms": 5
+		},
+		{
+			"id": 11,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 260815,
+			"newprice": 825301,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 299641,
+			"baths": 4,
+			"rooms": 2
+		},
+		{
+			"id": 12,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 702775,
+			"newprice": 275048,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 493191,
+			"baths": 8,
+			"rooms": 4
+		},
+		{
+			"id": 13,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 480988,
+			"newprice": 832843,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 851947,
+			"baths": 1,
+			"rooms": 4
+		},
+		{
+			"id": 14,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 729511,
+			"newprice": 656731,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 904653,
+			"baths": 4,
+			"rooms": 1
+		},
+		{
+			"id": 15,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 289200,
+			"newprice": 138142,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 342193,
+			"baths": 0,
+			"rooms": 6
+		},
+		{
+			"id": 16,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 355617,
+			"newprice": 94255,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 657065,
+			"baths": 3,
+			"rooms": 3
+		},
+		{
+			"id": 17,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 576666,
+			"newprice": 450905,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 494638,
+			"baths": 8,
+			"rooms": 3
+		},
+		{
+			"id": 18,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 745325,
+			"newprice": 631935,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 764095,
+			"baths": 5,
+			"rooms": 0
+		},
+		{
+			"id": 19,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 956415,
+			"newprice": 739521,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 360447,
+			"baths": 6,
+			"rooms": 6
+		},
+		{
+			"id": 20,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 492469,
+			"newprice": 983646,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 970008,
+			"baths": 9,
+			"rooms": 6
+		},
+		{
+			"id": 21,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 729866,
+			"newprice": 967195,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 733470,
+			"baths": 8,
+			"rooms": 9
+		},
+		{
+			"id": 22,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 554883,
+			"newprice": 419553,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 381666,
+			"baths": 3,
+			"rooms": 9
+		},
+		{
+			"id": 23,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 517264,
+			"newprice": 683353,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 118824,
+			"baths": 5,
+			"rooms": 2
+		},
+		{
+			"id": 24,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 878664,
+			"newprice": 283101,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 411394,
+			"baths": 4,
+			"rooms": 5
+		},
+		{
+			"id": 25,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 222714,
+			"newprice": 565947,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 515995,
+			"baths": 5,
+			"rooms": 4
+		},
+		{
+			"id": 26,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 220327,
+			"newprice": 964903,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 661101,
+			"baths": 8,
+			"rooms": 1
+		},
+		{
+			"id": 27,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 386651,
+			"newprice": 680696,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 58209,
+			"baths": 4,
+			"rooms": 2
+		},
+		{
+			"id": 28,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 7746,
+			"newprice": 454047,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 821353,
+			"baths": 6,
+			"rooms": 3
+		},
+		{
+			"id": 29,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 595130,
+			"newprice": 347108,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 56696,
+			"baths": 2,
+			"rooms": 7
+		},
+		{
+			"id": 30,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 70115,
+			"newprice": 153670,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 947474,
+			"baths": 1,
+			"rooms": 8
+		},
+		{
+			"id": 31,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 463059,
+			"newprice": 942423,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 619983,
+			"baths": 8,
+			"rooms": 8
+		},
+		{
+			"id": 32,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 199223,
+			"newprice": 257763,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 31061,
+			"baths": 1,
+			"rooms": 5
+		},
+		{
+			"id": 33,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 224264,
+			"newprice": 702153,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 196285,
+			"baths": 8,
+			"rooms": 7
+		},
+		{
+			"id": 34,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 606067,
+			"newprice": 371731,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 183599,
+			"baths": 2,
+			"rooms": 0
+		},
+		{
+			"id": 35,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 627379,
+			"newprice": 208187,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 815469,
+			"baths": 8,
+			"rooms": 7
+		},
+		{
+			"id": 36,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 923220,
+			"newprice": 131074,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 419490,
+			"baths": 5,
+			"rooms": 3
+		},
+		{
+			"id": 37,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 906174,
+			"newprice": 712851,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 815558,
+			"baths": 4,
+			"rooms": 2
+		},
+		{
+			"id": 38,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 782057,
+			"newprice": 765876,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 849897,
+			"baths": 8,
+			"rooms": 3
+		},
+		{
+			"id": 39,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 865014,
+			"newprice": 766784,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 743925,
+			"baths": 7,
+			"rooms": 2
+		},
+		{
+			"id": 40,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 431303,
+			"newprice": 958054,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 724416,
+			"baths": 3,
+			"rooms": 7
+		},
+		{
+			"id": 41,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 89868,
+			"newprice": 258554,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 207232,
+			"baths": 9,
+			"rooms": 8
+		},
+		{
+			"id": 42,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 183602,
+			"newprice": 328864,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 960371,
+			"baths": 3,
+			"rooms": 3
+		},
+		{
+			"id": 43,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 626115,
+			"newprice": 608602,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 811379,
+			"baths": 0,
+			"rooms": 0
+		},
+		{
+			"id": 44,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 468897,
+			"newprice": 437942,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 402216,
+			"baths": 1,
+			"rooms": 7
+		},
+		{
+			"id": 45,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 93908,
+			"newprice": 710609,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 647250,
+			"baths": 6,
+			"rooms": 1
+		},
+		{
+			"id": 46,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 181999,
+			"newprice": 216226,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 46254,
+			"baths": 6,
+			"rooms": 3
+		},
+		{
+			"id": 47,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 838807,
+			"newprice": 635625,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 6507,
+			"baths": 8,
+			"rooms": 8
+		},
+		{
+			"id": 48,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 874522,
+			"newprice": 32234,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 691102,
+			"baths": 0,
+			"rooms": 2
+		},
+		{
+			"id": 49,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 428128,
+			"newprice": 152232,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 659287,
+			"baths": 1,
+			"rooms": 1
+		},
+		{
+			"id": 50,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 636845,
+			"newprice": 525404,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 153210,
+			"baths": 1,
+			"rooms": 8
+		},
+		{
+			"id": 51,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 458641,
+			"newprice": 424345,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 4229,
+			"baths": 7,
+			"rooms": 3
+		},
+		{
+			"id": 52,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 325057,
+			"newprice": 204651,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 904293,
+			"baths": 3,
+			"rooms": 3
+		},
+		{
+			"id": 53,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 281057,
+			"newprice": 539011,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 176058,
+			"baths": 1,
+			"rooms": 1
+		},
+		{
+			"id": 54,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 732345,
+			"newprice": 366666,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 382544,
+			"baths": 5,
+			"rooms": 3
+		},
+		{
+			"id": 55,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 884992,
+			"newprice": 119365,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 776817,
+			"baths": 7,
+			"rooms": 2
+		},
+		{
+			"id": 56,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 175706,
+			"newprice": 902197,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 994685,
+			"baths": 2,
+			"rooms": 7
+		},
+		{
+			"id": 57,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 114822,
+			"newprice": 476288,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 840539,
+			"baths": 4,
+			"rooms": 3
+		},
+		{
+			"id": 58,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 957721,
+			"newprice": 267549,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 127754,
+			"baths": 1,
+			"rooms": 5
+		},
+		{
+			"id": 59,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 840210,
+			"newprice": 280522,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 607789,
+			"baths": 9,
+			"rooms": 2
+		},
+		{
+			"id": 60,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 847475,
+			"newprice": 629976,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 129279,
+			"baths": 9,
+			"rooms": 9
+		},
+		{
+			"id": 61,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 133647,
+			"newprice": 165841,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 431889,
+			"baths": 5,
+			"rooms": 4
+		},
+		{
+			"id": 62,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 399886,
+			"newprice": 674697,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 140325,
+			"baths": 5,
+			"rooms": 1
+		},
+		{
+			"id": 63,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 106712,
+			"newprice": 587560,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 978046,
+			"baths": 1,
+			"rooms": 1
+		},
+		{
+			"id": 64,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 858658,
+			"newprice": 608589,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 5600,
+			"baths": 0,
+			"rooms": 1
+		},
+		{
+			"id": 65,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 631893,
+			"newprice": 81815,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 487546,
+			"baths": 1,
+			"rooms": 2
+		},
+		{
+			"id": 66,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 686842,
+			"newprice": 271509,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 563661,
+			"baths": 7,
+			"rooms": 6
+		},
+		{
+			"id": 67,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 532608,
+			"newprice": 101669,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 707007,
+			"baths": 1,
+			"rooms": 8
+		},
+		{
+			"id": 68,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 78480,
+			"newprice": 531381,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 627131,
+			"baths": 3,
+			"rooms": 1
+		},
+		{
+			"id": 69,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 257509,
+			"newprice": 918061,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 900076,
+			"baths": 3,
+			"rooms": 5
+		},
+		{
+			"id": 70,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 950721,
+			"newprice": 336619,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 170195,
+			"baths": 6,
+			"rooms": 3
+		},
+		{
+			"id": 71,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 947388,
+			"newprice": 733306,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 741323,
+			"baths": 7,
+			"rooms": 7
+		},
+		{
+			"id": 72,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 144054,
+			"newprice": 223112,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 905588,
+			"baths": 4,
+			"rooms": 0
+		},
+		{
+			"id": 73,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 852122,
+			"newprice": 297832,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 727207,
+			"baths": 7,
+			"rooms": 6
+		},
+		{
+			"id": 74,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 723247,
+			"newprice": 384679,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 310386,
+			"baths": 6,
+			"rooms": 1
+		},
+		{
+			"id": 75,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 118568,
+			"newprice": 947142,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 463686,
+			"baths": 7,
+			"rooms": 3
+		},
+		{
+			"id": 76,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 352974,
+			"newprice": 497461,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 695854,
+			"baths": 5,
+			"rooms": 8
+		},
+		{
+			"id": 77,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 149959,
+			"newprice": 254779,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 337600,
+			"baths": 7,
+			"rooms": 5
+		},
+		{
+			"id": 78,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 35825,
+			"newprice": 736122,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 382575,
+			"baths": 8,
+			"rooms": 2
+		},
+		{
+			"id": 79,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 297460,
+			"newprice": 309753,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 58330,
+			"baths": 8,
+			"rooms": 3
+		},
+		{
+			"id": 80,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 211646,
+			"newprice": 53559,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 836134,
+			"baths": 3,
+			"rooms": 1
+		},
+		{
+			"id": 81,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 994362,
+			"newprice": 87004,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 621929,
+			"baths": 3,
+			"rooms": 9
+		},
+		{
+			"id": 82,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 491313,
+			"newprice": 630591,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 71877,
+			"baths": 6,
+			"rooms": 0
+		},
+		{
+			"id": 83,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 961666,
+			"newprice": 199771,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 649151,
+			"baths": 6,
+			"rooms": 6
+		},
+		{
+			"id": 84,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 565737,
+			"newprice": 198726,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 431603,
+			"baths": 7,
+			"rooms": 3
+		},
+		{
+			"id": 85,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 113106,
+			"newprice": 940119,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 626091,
+			"baths": 6,
+			"rooms": 2
+		},
+		{
+			"id": 86,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 820106,
+			"newprice": 331916,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 481853,
+			"baths": 3,
+			"rooms": 8
+		},
+		{
+			"id": 87,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 404651,
+			"newprice": 390727,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 548710,
+			"baths": 8,
+			"rooms": 8
+		},
+		{
+			"id": 88,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 674311,
+			"newprice": 856087,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 642065,
+			"baths": 1,
+			"rooms": 8
+		},
+		{
+			"id": 89,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 504077,
+			"newprice": 829639,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 659378,
+			"baths": 1,
+			"rooms": 4
+		},
+		{
+			"id": 90,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 964189,
+			"newprice": 105180,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 924293,
+			"baths": 0,
+			"rooms": 5
+		},
+		{
+			"id": 91,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 396500,
+			"newprice": 789633,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 719108,
+			"baths": 3,
+			"rooms": 4
+		},
+		{
+			"id": 92,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 452809,
+			"newprice": 685708,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 64830,
+			"baths": 2,
+			"rooms": 0
+		},
+		{
+			"id": 93,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 264434,
+			"newprice": 803528,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 214722,
+			"baths": 4,
+			"rooms": 3
+		},
+		{
+			"id": 94,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 411383,
+			"newprice": 164607,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 234095,
+			"baths": 1,
+			"rooms": 5
+		},
+		{
+			"id": 95,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 498329,
+			"newprice": 352968,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 336688,
+			"baths": 0,
+			"rooms": 5
+		},
+		{
+			"id": 96,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 834237,
+			"newprice": 887123,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 381585,
+			"baths": 7,
+			"rooms": 6
+		},
+		{
+			"id": 97,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 368671,
+			"newprice": 782254,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 132707,
+			"baths": 7,
+			"rooms": 7
+		},
+		{
+			"id": 98,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 722485,
+			"newprice": 63543,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 51909,
+			"baths": 8,
+			"rooms": 6
+		},
+		{
+			"id": 99,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 112745,
+			"newprice": 915195,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 416853,
+			"baths": 7,
+			"rooms": 8
+		},
+		{
+			"id": 100,
+			"image": "http://localhost:3000/react/realdeal/assets/img/feature/1.png",
+			"price": 770259,
+			"newprice": 291875,
+			"authorname": "foo",
+			"title": "foo",
+			"area": 926224,
+			"baths": 1,
+			"rooms": 2
+		}
+	]
+}
